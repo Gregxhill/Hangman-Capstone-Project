@@ -14,7 +14,7 @@ For each game a random word is chosen from a list of words. (Hint they're coding
 
 Find the link under the green `code` button and type `git clone [link]` in your directory.
 Then open a terminal in the project directory and type `npm start`.
-Alternatively use this link `https://belle-croissant-08487.herokuapp.com/` to play the game.
+Alternatively use [this link]( https://belle-croissant-08487.herokuapp.com/) to play the game.
 
 ## How it works:
 
